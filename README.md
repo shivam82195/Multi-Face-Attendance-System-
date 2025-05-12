@@ -2,3 +2,7 @@
 
 This project is a face recognition-based attendance system that uses OpenCV and Python. The system uses a camera to capture images of individuals and then compares them with the images in the database to mark attendance.
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+DEMO VIDEO LINK
+https://drive.google.com/file/d/11z3h5pePWN1q-BI6xoKWxWGJuvg_MPj3/view?usp=sharing
