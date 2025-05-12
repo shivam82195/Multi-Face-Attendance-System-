@@ -6,4 +6,4 @@ ________________________________________________________________________________
 
 DEMO VIDEO LINK
 https://drive.google.com/file/d/11z3h5pePWN1q-BI6xoKWxWGJuvg_MPj3/view?usp=sharing
-[G59.pdf](https://github.com/user-attachments/files/20164996/G59.pdf)
+
