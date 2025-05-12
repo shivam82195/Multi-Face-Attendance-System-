@@ -5,5 +5,5 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 DEMO VIDEO LINK
-https://drive.google.com/file/d/11z3h5pePWN1q-BI6xoKWxWGJuvg_MPj3/view?usp=sharing
+https://drive.google.com/file/d/1vsTD6FdGLvXqy0Rbo05jNNY9teg4H2a4/view?usp=sharing
 
