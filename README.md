@@ -2,20 +2,15 @@
 
 This project is a face recognition-based attendance system that uses OpenCV and Python. The system uses a camera to capture images of individuals and then compares them with the images in the database to mark attendance.
 
-_______________________________________________________________________________________________________________________________
-
 # Installation
 Clone the repository to your local machine. 
 https://github.com/shivam82195/Multi-Face-Attendance-System-
-________________________________________________________________________________________________________________________________
 
 # Install the required packages using 
 pip install -r requirements.txt.
 
-_________________________________________________________________________________________________________________________________
 # Download the dlib models from 
 https://drive.google.com/drive/folders/16Eqna4pblFJn1pOmaH5Q2E7tLOcfio7L?usp=sharing
-__________________________________________________________________________________________________________________________________
 
 # Usage
 1. Give the GUI by running  python main.py
