@@ -18,7 +18,6 @@ https://drive.google.com/drive/folders/16Eqna4pblFJn1pOmaH5Q2E7tLOcfio7L?usp=sha
 3. Convert the dataset into python features_extraction_to_csv.py.
 4. To take the attendance run python attendance_taker.py .
 5. Check the Database by python app.py.
-__________________________________________________________________________________________________________________________________
 
 # Demo Video Link
   https://drive.google.com/file/d/1vsTD6FdGLvXqy0Rbo05jNNY9teg4H2a4/view?usp=sharing
