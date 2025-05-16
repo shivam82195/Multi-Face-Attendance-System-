@@ -9,7 +9,8 @@ Clone the repository to your local machine.
 https://github.com/shivam82195/Multi-Face-Attendance-System-
 ________________________________________________________________________________________________________________________________
 
-#Install the required packages using pip install -r requirements.txt.
+# Install the required packages using 
+pip install -r requirements.txt.
 
 _________________________________________________________________________________________________________________________________
 # Download the dlib models from 
